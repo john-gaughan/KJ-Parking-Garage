@@ -5,6 +5,7 @@ This is a fairly simple project imitating parking garage software with assigned 
 <br>
 <ins>Contributors</ins>
 <br>
-[@katerijy]( https://github.com/katerijy ) - Wrote first draft of code.
+[@katerijy]( https://github.com/katerijy ) - First draft and debugging.
 <br>
-Myself - Fleshed out many of the bugs and formatting with Kateri's input.
+[@john-gaughan]( https://github.com/john-gaughan ) - Data structure and refactoring code.
+Together - Debugging and adding functionalities.
