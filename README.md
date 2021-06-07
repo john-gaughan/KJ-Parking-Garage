@@ -1,6 +1,6 @@
 # KJ Parking Garage
 
-This is a fairly simple project imitating parking garage software with assigned spots. Happy parking!
+A fairly simple project imitating parking garage software with assigned spots. Happy parking!
 <br>
 <br>
 <ins>Contributors</ins>
