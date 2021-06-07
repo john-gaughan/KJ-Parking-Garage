@@ -1,6 +1,9 @@
 # KJ Parking Garage
 
-A fairly simple project imitating parking garage software. Happy parking!
+A fairly simple project imitating parking garage software. Happy parking! 
+<br>
+<br>
+Written in Python.
 <br>
 <br>
 <ins>Contributors</ins>
